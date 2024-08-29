@@ -1,4 +1,4 @@
 # GamePublish
 A template repository to publish games
 
-[name of link](actual link here)
+[Coin Dash player scene](demo-games-inagle33/player_scene)
