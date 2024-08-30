@@ -1,7 +1,7 @@
 # GamePublish
 A repository to publish games made in CSC476 Game Development
 
-## Final Version
+## Final Versions
 
 ## Class Publishing Demos
 
