@@ -4,7 +4,8 @@ A repository to publish games made in CSC476 Game Development
 ## Final Versions
 
 TODO: add final version w all effects here
-[Coin Dash](file path here)
+[Coin Dash Phase 1](file path here)\
+[Coin Dash Phase 2](file path here)
 
 ## Class Publishing Demos
 
