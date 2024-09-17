@@ -29,6 +29,6 @@ A repository to publish games made in CSC476 Game Development
 [Space Rocks main scene sep11](SpaceRocks_main_scene_sep11)\
 [Space Rocks main scene sep13](SpaceRocks_main_scene_sep13)\
 [Space Rocks main scene sep16](SpaceRocks_main_scene_sep16)\
-[Space Rocks Finished Game](folder here)
+[Space Rocks Finished Game](SpaceRocks_Finished_Game)
 
 ### next game
