@@ -5,7 +5,7 @@ A repository to publish games made in CSC476 Game Development
 
 ### Project 1
 [Coin Dash Phase 1](CoinDashPhase1)\
-[Coin Dash Phase 2](file path here)\
+[Coin Dash Phase 2](CoinDashPhase2)\
 [Coin Dash Write-Up](write up doc here)
 
 ### Project 2
