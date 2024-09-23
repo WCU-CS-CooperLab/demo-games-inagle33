@@ -11,7 +11,7 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 
 
 ### Project 2
-[Space Rocks Phase 1](SpaceRocks_Finished_Game)\
+[Space Rocks Phase 1](SpaceRocksPhase1)\
 [Space Rocks Phase 2](SpaceRocksPhase2)\
 [Link to full code base for both phases in workbench
 repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/Assignments/Project2)
