@@ -38,4 +38,5 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 [Space Rocks main scene sep16](SpaceRocks_main_scene_sep16)\
 [Space Rocks Finished Game](SpaceRocks_Finished_Game)
 
-### next game
+### 3D Minigolf
+[3D Minigolf hole scene sep23](minigolf_hole_scene_sep23)\
