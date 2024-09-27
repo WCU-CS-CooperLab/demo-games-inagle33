@@ -41,5 +41,5 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 [3D Minigolf hole scene sep23](minigolf_hole_scene_sep23)\
 [3D Minigolf UI scene sep25](Minigolf_UI_scene_sep25)\
 [3D Minigolf hole scene sep25](Minigolf_hole_scene_sep25)\
-
+[3D Minigolf hole scene sep27](Minigolf_hole_scene_sep27)\
 [3D Minigolf Finished Game](3DMinigolfPhase1)
