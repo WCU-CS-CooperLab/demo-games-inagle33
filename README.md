@@ -43,3 +43,9 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 [3D Minigolf hole scene sep25](Minigolf_hole_scene_sep25)\
 [3D Minigolf hole scene sep27](Minigolf_hole_scene_sep27)\
 [3D Minigolf Finished Game](3DMinigolfPhase1)
+
+### Jungle Jump
+[Jungle Jump player scene sep30](jj_player_scene_sep30)\
+[Jungle Jump main scene sep30](jj_main_scene_oct2)\
+
+[Jungle Jump Finished Game](JungleJumpFinishedGame)
