@@ -46,6 +46,7 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 
 ### Jungle Jump
 [Jungle Jump player scene sep30](jj_player_scene_sep30)\
-[Jungle Jump main scene sep30](jj_main_scene_oct2)\
-
+[Jungle Jump main scene oct2](jj_main_scene_oct2)\
+[Jungle Jump main scene oct4](jj_main_scene_oct4)\
+[Jungle Jump main scene oct6](jj_main_scene_oct6)\
 [Jungle Jump Finished Game](JungleJumpFinishedGame)
