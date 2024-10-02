@@ -4,7 +4,7 @@ A repository to publish games made in CSC476 Game Development
 ## Final Versions
 
 ### Project 1
-[Coin Dash Phase 1](test)\
+[Coin Dash Phase 1](CoinDashPhase1)\
 [Coin Dash Phase 2](CoinDashPhase2)\
 [Link to full code base for both phases in workbench 
 repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/Assignments/Project1)
