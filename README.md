@@ -51,3 +51,6 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 [level scene oct7](JJ_scenes/jj_level_scene_oct7)\
 [level scene oct9](JJ_scenes/jj_level_scene_oct9)\
 [Finished Game](Projects/JungleJumpFinishedGame)
+
+### Infinite Flyer
+[??? scene oct16](IF_scenes/if_???_scene_oct16)\
