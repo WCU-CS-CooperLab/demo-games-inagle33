@@ -53,4 +53,4 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 [Finished Game](Projects/JungleJumpFinishedGame)
 
 ### Infinite Flyer
-[??? scene oct16](IF_scenes/if_???_scene_oct16)\
+[plane scene oct16](IF_scenes/if_plane_scene_oct16)\
