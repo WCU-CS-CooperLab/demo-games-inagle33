@@ -54,3 +54,5 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 
 ### Infinite Flyer
 [plane scene oct16](IF_scenes/if_plane_scene_oct16)\
+[plane main oct18](IF_scenes/if_main_scene_oct18)\
+[Finished Game](Projects/InfiniteFlyerFinishedGame)
