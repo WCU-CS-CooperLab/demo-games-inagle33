@@ -21,6 +21,13 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 [Link to full code base for both phases in workbench
 repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/Assignments/Project3)
 
+### Project 4
+[tbd](Projects/tbd)
+[Link to full code base for project in workbench repo]()
+
+### Team Project 1
+[Treasure of the Stone Bridge](link)
+
 ## Scene Demos from Class
 
 ### Coin Dash
