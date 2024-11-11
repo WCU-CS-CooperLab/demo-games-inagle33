@@ -26,7 +26,7 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 [Link to full code base for project in workbench repo]()
 
 ### Team Project 1
-[Treasure of the Stone Bridge](link)
+[Treasure of the Stone Bridge](Projects/TreasureOfTheStoneBridge)
 
 ## Scene Demos from Class
 
