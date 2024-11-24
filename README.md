@@ -22,11 +22,16 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/Assignments/Project3)
 
 ### Project 4
-[tbd](Projects/tbd)
-[Link to full code base for project in workbench repo]()
+[macOS](Projects/tbd)
+[Windows](Projects/tbd)
+[Link to full code base for project in workbench 
+repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/Projects/Project4)
 
 ### Team Project 1
 [Treasure of the Stone Bridge](Projects/TreasureOfTheStoneBridge)
+
+### Team Project 2
+[tbd](Projects/tbd)
 
 ## Scene Demos from Class
 
