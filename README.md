@@ -22,8 +22,8 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/A
 repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/Assignments/Project3)
 
 ### Project 4
-[macOS](Projects/Project4_mac/project4_server.dmg)
-[Windows](Projects/Project4_windows/project4_server.exe)
+[macOS](Projects/Project4_mac/project4_server.dmg)\
+[Windows](Projects/Project4_windows/project4_server.exe)\
 [Link to full code base for project in workbench 
 repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/Projects/Project4)
 
