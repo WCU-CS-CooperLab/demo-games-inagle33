@@ -33,7 +33,9 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/P
 [Treasure of the Stone Bridge](Projects/TreasureOfTheStoneBridge)
 
 ### Team Project 2
-[tbd](Projects/tbd)
+[macOS](Projects)\  
+Note: We met in office hours and determined my computer couldn't export to macOS.\
+[Windows](Projects/tbd)
 
 ## Scene Demos from Class
 
