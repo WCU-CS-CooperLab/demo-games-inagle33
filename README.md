@@ -34,7 +34,7 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/P
 
 ### Team Project 2
 [GemRush macOS](Projects/TeamProject2_mac/GemRush.zip)\
-[GemRush Windows](Projects/TeamProject2_windows/GemRush.exe)
+[GemRush Windows](Projects/TeamProject2_windows/GemRush.zip)
 
 ## Scene Demos from Class
 
