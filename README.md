@@ -33,9 +33,8 @@ repo](https://github.com/WCU-CS-CooperLab/gamedev-workbench-inagle33/tree/main/P
 [Treasure of the Stone Bridge](Projects/TreasureOfTheStoneBridge)
 
 ### Team Project 2
-[macOS](Projects)\  
-Note: We met in office hours and determined my computer couldn't export to macOS.\
-[Windows](Projects/tbd)
+[macOS](Projects/TeamProject2_mac/GemRush.zip)\
+[Windows](Projects/TeamProject2_windows/GemRush.exe)
 
 ## Scene Demos from Class
 
